@@ -1,0 +1,5 @@
+/target
+/bindings.json
+/cargo.lock
+/test/test.webp
+deno
